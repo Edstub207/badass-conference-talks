@@ -31,3 +31,14 @@ A repo with your favorite conference talks broken up by topics! Feel free to ope
 - [Do schools kill creativity?](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity?referrer=playlist-the_most_popular_talks_of_all#t-67732) by Sir Ken Robinson
 - [The power of vulnerability](https://www.ted.com/talks/brene_brown_on_vulnerability/up-next?referrer=playlist-the_most_popular_talks_of_all) by Brené Brown
 - [My stroke of insight](https://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight/up-next) by Jill Bolte Taylor
+
+## Game Dev
+Note: Some GDC Vault talks may require subscriptions for the videos. The slides should be free on the site though with the same name. 
+
+- [Automated Testing at Scale in Sea of Thieves | Unreal Fest Europe 2019 | Unreal Engine](https://www.youtube.com/watch?v=KmaGxprTUfI) by Jessica Baker
+- [Automated Testing of Gameplay Features in Sea of Thieves](https://www.gdcvault.com/play/1026042/Automated-Testing-of-Gameplay-Features) by Robert Masella)
+- [Automated Testing and Profiling for 'Call of Duty](https://www.gdcvault.com/play/1025064/Automated-Testing-and-Profiling-for) by Jan Van Balburg
+- [Automated Testing using AI Controlled players for The Division](https://www.gdcvault.com/play/1026069/Automated-Testing-Using-AI-Controlled) by Jose Paredes and Pete Jones
+- [Horizion Zero Dawn: An open world QA Case Study](https://www.gdcvault.com/play/1025153/-Horizon-Zero-Dawn-A%20) by Ana Barbuta
+- [RARE Adopting Continuous Delivery](https://www.gdcvault.com/play/1025028/Adopting-Continuous) by Jafar Solanti 
+
